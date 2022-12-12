@@ -3,3 +3,6 @@ bye bye
 
 
 my first line
+
+
+console changes added
